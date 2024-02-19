@@ -17,5 +17,6 @@ class boy{
 };
 int main(){
     boy a;
+    boy b;
     return 0;
 }
